@@ -1,0 +1,7 @@
+interface:
+  display_name: "中产家庭全案资产配置"
+  short_description: "完整家庭资产体检、调仓方案与HTML报告"
+  brand_color: "#2F6F64"
+  default_prompt: "Use $middle-class-full-case-asset-allocation to create a full middle-class family asset allocation diagnosis and HTML report from complete household financial data."
+policy:
+  allow_implicit_invocation: true
